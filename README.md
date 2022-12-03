@@ -40,9 +40,9 @@
 
 ## Структура репозитория
 - **SOTA** - папка, в которой находятся актуальное решение.
-  - train.py - train function, cfg
+  - pred.py - настройка конфигурации и инференс модели. 
 
-- **experimental** - bonus code (experiments w/ various models)
+-experimental - bonus code (experiments w/ various models)
   EfficientNetCirclenContrastLosses - директория
   -
 
