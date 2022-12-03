@@ -32,7 +32,7 @@
 
 1) IResnet100 ArcFace + CNN Relightning
 **Public LB: F1 - 0.9739; Recall - 0.9152**
-**Private LB: F1 - None; Recall - None**
+**Private LB: F1 - 0.876; Recall - 0.827**
 
 2) EfficientNetV2 + Contrastive & Circle Losses
 **Public LB: не хватило времени на тренировку;**
