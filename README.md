@@ -43,11 +43,12 @@
   - pred.py - настройка конфигурации и инференс модели. 
 
 -experimental - bonus code (experiments w/ various models)
-  EfficientNetCirclenContrastLosses - директория
+EfficientNetCirclenContrastLosses - директория
   -
 
 ## Как запустить актуальное решение
-- **SOTA** - папка, в которой находятся Python-файлы с необходимыми функциями
-  - 
+- **SOTA** - папка, в которой находятся Python-файлы с необходимыми функциями. 
+- Необходимо предоставить путь к модели (в формате ONNX), путь к данным в виде Pickle, выходной путь
+- Изменить конфигурационные параметры
 
 *Don't deal with the noise...*
